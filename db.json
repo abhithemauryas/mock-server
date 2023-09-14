@@ -14,5 +14,17 @@
       "place": "Banglore",
       "gender": "Female"
     }
-  ]
+  ],
+
+"Signup": [
+  {
+    "name": "admin",
+    "age": "23",
+    "email": "admin@gmail.com",
+    "password": "123",
+    "id": 5
+  }
+],
+"Login": [],
+"profile": { "name": "typicode" }
 }
